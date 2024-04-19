@@ -4,15 +4,15 @@
 
 # Table Of Contents
 
-[Prerequisites](#prerequisites)
-  [PosgreSQL](#postgresql)
-    [Configuration](#configuration)
-    [Using a Minimum Priviledged User](#using-a-minimum-privileged-user)
-  [Redis](#redis)
-[Installation & Usage](#installation--usage)
-  [Create a Pipeline](#create-a-pipeline)
-  [View Existing Pipelines](#view-existing-pipelines)
-  [Teardown a Pipeline](#teardown-a-pipeline)
+- [Prerequisites](#prerequisites)
+  - [PosgreSQL](#postgresql)
+    - [Configuration](#configuration)
+    - [Using a Minimum Priviledged User](#using-a-minimum-privileged-user)
+  - [Redis](#redis)
+- [Installation & Usage](#installation--usage)
+  - [Create a Pipeline](#create-a-pipeline)
+  - [View Existing Pipelines](#view-existing-pipelines)
+  - [Teardown a Pipeline](#teardown-a-pipeline)
 
 # Prerequisites
 
